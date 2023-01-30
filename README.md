@@ -129,6 +129,8 @@ sonar-scanner \
   -Dsonar.login=my_sonarqube_project_token
 ```
 
+![image](https://user-images.githubusercontent.com/71556060/215470288-6088ba86-96d8-4efd-810d-ffe1589ccc0d.png)
+
 
 
 
